@@ -7,3 +7,8 @@ education:
 	school: 10
 	inter: jdj
 	btech : degree
+
+professional
+	job: yes
+	company: no
+	industry: yesbank
