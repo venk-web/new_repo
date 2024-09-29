@@ -1,0 +1,4 @@
+basic details:
+	name: venky
+	age: 26
+	height: 6
