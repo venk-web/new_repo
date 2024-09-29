@@ -23,3 +23,9 @@ interests:
 	inti
 	hdhe
 	gehr
+
+location:
+	suddapalli
+	vejendla
+	guntur
+	vadlamudi
