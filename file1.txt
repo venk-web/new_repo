@@ -13,3 +13,8 @@ hobbies:
 	eating
 	tining
 	diting
+
+professional
+	job: yes
+	company: no
+	industry: yesbank
