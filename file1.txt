@@ -7,3 +7,9 @@ education:
 	school: 10
 	inter: jdj
 	btech : degree
+
+hobbies:
+	playing
+	eating
+	tining
+	diting
